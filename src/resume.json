@@ -1,0 +1,84 @@
+
+{
+	"name":"Eugenia Cadavid Divantoque",
+	"email": "eumar-8@hotmail.com",
+  "what":"Front end web developer",
+	"phone": "073-886-98116",
+	"image":"https://s11.postimg.org/h4kxx0u6r/15003441_10209276240317533_6250209126759381792_o.jpg",
+  "twitter": "@8Eumar",
+	"twitterURL": "https://twitter.com/8Eumar",
+  "github":"https://github.com/eumar-8",
+	"experiences" : [
+		{
+			"title" : "Front end Web Developer",
+			"period": " July 2017 - Present",
+			"company": "React Software ltd, london",
+			"details": "Front end Javascript,React web development for internal applications"
+		},
+		{
+			"title" : "Junior Web Developer",
+			"period": "October 2016- March 2017",
+			"company": "Magica Screen BV - Amsterdam, The  Netherlands",
+			"details": "Help Costumers with their WebSites in terms of HTML and CSS implementation. Undersatnd the customer's needs and translate them into functional websites"
+		}
+	],
+	"projects": [
+		{
+			"name":"medivoetzorg",
+			"url": "http://www.medivoetzorg.nl/",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"DevStudio",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		}
+],
+	"skills": [
+		{
+			"name": "HTML",
+			"percent": "98%"
+		},
+		{
+			"name": "CSS",
+			"percent": "98%"
+		},
+		{
+			"name": "Java-script",
+			"percent": "80%"
+		},
+
+		{
+			"name": "React",
+			"percent": "70%"
+		},
+		{
+			"name": "jQuery",
+			"percent": "40%"
+		}
+	],
+	"education": [
+		{
+			"degree": "Frond end Web Developer",
+			"university": "CodeAcademmy,Udemmy",
+			"period": "2015 - 2016"
+		}
+	],
+	"languages": [
+		{
+			"name":"Spanish",
+			"details": "Native"
+		},
+		{
+			"name":"English",
+			"details": "Professional"
+		}
+	],
+	"interests": [
+    "Coding",
+		"gym",
+		"Snowboarding",
+		"Cooking"
+
+	]
+}
